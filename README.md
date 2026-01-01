@@ -2,7 +2,7 @@ Each project folder has a description.
 
 To assemble each project I used AVRA with the command
 ```
-avra -o out.hex avr [name].s
+avra -o out.hex [name].s
 ```
 
 To program the ATmega328P I used an Arduino as ISP and AVRDUDE with the command
